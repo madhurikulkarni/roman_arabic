@@ -1,0 +1,35 @@
+{
+  "name": "roman",
+  "version": "1.0.0",
+  "description": "roman to arabic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/madhurikulkarni/roman_arabic.git"
+  },
+  "keywords": [
+    "roman",
+    "arabic"
+  ],
+  "author": "madhuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhurikulkarni/roman_arabic/issues"
+  },
+  "homepage": "https://github.com/madhurikulkarni/roman_arabic#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-cli": "^1.0.1",
+    "karma-coverage": "^1.1.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.1",
+    "karma-spec-reporter": "0.0.26"
+  }
+}
